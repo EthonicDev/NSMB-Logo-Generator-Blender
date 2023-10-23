@@ -7,4 +7,4 @@ a thing i guess
 
 
 
-lighting provided by MigueI#3046
+lighting and some materials provided by Miguel (Miguei #3046)
