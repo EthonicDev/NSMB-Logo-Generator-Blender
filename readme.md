@@ -7,4 +7,4 @@ a thing i guess
 
 
 
-lighting and some materials provided by Miguel (Miguei #3046)
+a bit of lighting provided by real_miguel, neuer font used in splash created by azuritii.
